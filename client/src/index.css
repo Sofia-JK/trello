@@ -1,0 +1,11 @@
+body, #root {
+    margin: 0;
+    padding: 0;
+    background-color: #F8F3E0;
+    margin-bottom: 100px;
+  }
+  
+  body{
+    margin-left: 150px;
+    margin-right: 150px;
+  }
